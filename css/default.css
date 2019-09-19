@@ -1,5 +1,38 @@
 body{
-    color:pink;  
-    background-color: lightblue;
+  text-align: center;  
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  color:pink;  
+  background-color: lightblue;
+  align-content: 75%;
+}
+img {
+    
+    width: 500px;
+    height: 500px;
     
 }
+h1{
+  padding: 10px 10px 20px 10px;
+  border: 5px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  color:black;  
+  background-color: ##bdc3c7 ;  
+  
+}
+
+:link{
+    color:aquamarine;
+    font-size: 20px;
+    padding: 10px 10px 20px 10px;
+    border: 5px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    color:black;  
+    background-color: ##bdc3c7 ;  
+    
+}
+
