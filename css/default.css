@@ -46,6 +46,7 @@ a{
     box-shadow: 10px 10px 5px #aaaaaa;
     color:black;  
     background-color: ##bdc3c7 ;  
+    display: block;
     
 }
 div.sound {
