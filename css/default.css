@@ -84,7 +84,7 @@ div.sound {
     color:black;
     width: 20%;
     height: 100px;
-    overflow: scroll;
+    overflow: auto;
     
 }
 
