@@ -1,0 +1,90 @@
+body{
+  text-align: center;  
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_L-Nnm0-IsuFqT6DXmdQHgiOYTl2nAKATlUr-ilm8U_0tq-4');
+  background-repeat:5;
+  background-attachment: fixed;
+  align-content: 80%;
+  
+    
+}
+img {
+    padding: 10px 10px 20px 10px;
+    width: 400px;
+    height: 300px;
+    border: 8px solid #BFBFBF;
+    border-style:ridge;
+    
+    
+  
+    
+    
+}
+
+.audio{
+  background-color: lightblue;
+  color: black;
+  padding: 20px;
+  
+}
+h1{
+  padding: 10px 10px 20px 10px;
+  border: 5px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  color:black;  
+
+  
+}
+
+:link{
+    font-size:30px;
+    padding: 20px 20px 30px 20px;
+    border: 5px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    color:black;     
+}
+
+a:hover 
+ {font-size: larger
+
+
+} 
+
+
+div.sound {
+    width: 60px;
+    height: 50px;
+    border: 10px solid black;
+    box-shadow: 5px 5px 5px #aaaaaa;
+    background-color: white;
+    float:right;
+    position: relative;
+    
+    
+    
+}
+.username{
+    background-color:antiquewhites;
+    border: 5px solid #BFBFBF;
+    border-style:outset;
+    color:darkcyan;
+    font-family:serif;
+    font-size: 60px;
+    float:right;
+    
+}
+   
+}
+
+.header{
+  background-color: lightblue;
+  color: black;
+  padding: 30px;
+  text-align: center; 
+    
+}
