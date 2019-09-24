@@ -47,7 +47,8 @@ h1{
     border: 10px solid #BFBFBF;
     background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
-    color:black;    
+    color:black;
+    
     
 }
 a:hover 
@@ -87,6 +88,7 @@ div.sound {
   padding: 30px;
   text-align: center; 
     
+    
 }
 .reading-box{
     
@@ -96,8 +98,10 @@ div.sound {
     background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
     color:black;
-    width: 200px;
-    height: 50px;
+    width: 20%;
+    height: 100px;
+    overflow: scroll;
+    
 }
 .day-box{
     
@@ -106,6 +110,10 @@ div.sound {
     border: 10px dotted #BFBFBF;
     background-color:antiquewhite;
     color:black;
+}
+.day{
+    border: 5px;
+    
 }
 
 .assignment_link{
