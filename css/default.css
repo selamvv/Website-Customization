@@ -2,9 +2,8 @@ body{
   text-align: center;  
   padding: 10px 10px 20px 10px;
   border: 1px solid #BFBFBF;
-  background-color: white;
+  background-color: #c7ecee;
   box-shadow: 10px 10px 5px #aaaaaa;
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_L-Nnm0-IsuFqT6DXmdQHgiOYTl2nAKATlUr-ilm8U_0tq-4');
   background-repeat:5;
   background-attachment: fixed;
   align-content: 80%;
@@ -105,4 +104,4 @@ div.sound {
     background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
     color:black;    
-}
+=======
