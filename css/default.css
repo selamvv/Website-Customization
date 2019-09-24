@@ -115,6 +115,14 @@ div.sound {
     border: 5px;
     
 }
+:link{
+    font-size:30px;
+    padding: 20px 20px 20px 10px;
+    border: 10px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    color:black;     
+}
 
 .assignment_link{
     height: 10px;
@@ -125,4 +133,5 @@ div.sound {
     background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
     color:black;
+    display: inline-block;
 }
