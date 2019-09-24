@@ -85,6 +85,8 @@ div.sound {
     width: 20%;
     height: 100px;
     overflow: auto;
+    width: fit-content;
+    height: auto;
     
 }
 
