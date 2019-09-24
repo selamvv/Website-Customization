@@ -103,5 +103,15 @@ div.sound {
     border: 5px solid #BFBFBF;
     background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
-    color:black;    
-=======
+    color:black;
+}
+
+.assignment_link{
+    
+    font-size:30px;
+    padding: 10px 10px 20px 10px;
+    border: 5px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    color:black;
+}
