@@ -111,12 +111,11 @@ div.sound {
 }
 
 .assignment_link{
-    height: 10px;
-    width: 100px;
+    height: 300px;
+    width: 500px;
+    border: 5px solid black;
     font-size:30px;
     padding: 10px 10px 20px 10px;
-    border: 5px solid #BFBFBF;
-    background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
     color:black;
     display: inline-block;
