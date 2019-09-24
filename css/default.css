@@ -11,12 +11,12 @@ body{
     
 }
 img {
-    padding: 10px 10px 20px 10px;
+    padding: 20px 20px 10px 10px;
     width: 400px;
     height: 300px;
     border: 8px solid #BFBFBF;
     border-style:ridge;
-    position: absolute;
+    
     
     
     
@@ -40,16 +40,16 @@ h1{
 
   
 }
-
-:link{
-    font-size:30px;
-    padding: 10px 10px 20px 10px;
-    border: 5px solid #BFBFBF;
+.nav
+{
+ font-size:30px;
+    padding: 20px 20px 20px 10px;
+    border: 10px solid #BFBFBF;
     background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
-    color:black;     
+    color:black;    
+    
 }
-
 a:hover 
  {font-size: larger
 
@@ -60,7 +60,7 @@ a:hover
 div.sound {
     width: 60px;
     height: 50px;
-    border: 10px solid black;
+    border: 10px dotted black;
     box-shadow: 5px 5px 5px #aaaaaa;
     background-color: white;
     float:right;
@@ -76,9 +76,8 @@ div.sound {
     color:darkcyan;
     font-family:serif;
     font-size: 60px;
-    float:right;
+    clear: right;
     
-}
    
 }
 
@@ -97,7 +96,7 @@ div.sound {
     background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
     color:black;
-    width: 50%;
+    width: 200px;
     height: 50px;
 }
 .day-box{
