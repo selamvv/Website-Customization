@@ -16,6 +16,8 @@ img {
     height: 300px;
     border: 8px solid #BFBFBF;
     border-style:ridge;
+    position: absolute;
+    
     
     
   
@@ -95,13 +97,15 @@ div.sound {
     background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
     color:black;
+    width: 50%;
+    height: 50px;
 }
 .day-box{
     
    font-size:30px;
     padding: 10px 10px 20px 10px;
     border: 5px solid #BFBFBF;
-    background-color: white;
+    background-color:antiquewhite;
     box-shadow: 10px 10px 5px #aaaaaa;
     color:black;
 }
