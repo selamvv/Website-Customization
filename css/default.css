@@ -118,5 +118,5 @@ div.sound {
     padding: 10px 10px 20px 10px;
     box-shadow: 10px 10px 5px #aaaaaa;
     color:black;
-    display: block;
+    display: inline block;
 }
