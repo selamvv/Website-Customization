@@ -16,13 +16,6 @@ img {
     height: 300px;
     border: 8px solid #BFBFBF;
     border-style:ridge;
-    
-    
-    
-    
-  
-    
-    
 }
 
 .audio{
@@ -37,8 +30,6 @@ h1{
   background-color: white;
   box-shadow: 10px 10px 5px #aaaaaa;
   color:black;  
-
-  
 }
 .nav
 {
@@ -48,13 +39,9 @@ h1{
     background-color: white;
     box-shadow: 10px 10px 5px #aaaaaa;
     color:black;
-    
-    
 }
 a:hover 
  {font-size: larger
-
-
 } 
 
 
@@ -66,9 +53,6 @@ div.sound {
     background-color: white;
     float:right;
     position: relative;
-    
-    
-    
 }
 .username{
     background-color:antiquewhites;
@@ -103,6 +87,7 @@ div.sound {
     overflow: scroll;
     
 }
+
 .day-box{
     
    font-size:30px;
@@ -112,7 +97,8 @@ div.sound {
     color:black;
 }
 .day{
-    border: 5px;
+    border: 5px solid pink;
+    border-radius: 5px;
     
 }
 :link{
