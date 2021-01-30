@@ -1,2 +1,2 @@
 # index.html
-Changing the css of wdd page
+CSS code to customize school homepage website
